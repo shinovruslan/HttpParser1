@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="proxyHost">178.128.217.141</entry>
+<entry key="proxyPort">3128</entry>
+<entry key="proxyUser">User</entry>
+<entry key="proxyPassword">Password</entry>
+<entry key="jdbcHost">jdbc:oracle:thin:@anubis.ftc.ru:1548:IBS_DEV</entry>
+<entry key="jdbcUser">IBS</entry>
+<entry key="jdbcPassword">IBS</entry>
+</properties>
